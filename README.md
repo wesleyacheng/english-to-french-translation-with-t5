@@ -23,4 +23,6 @@ The **main difference** between a **discriminative** model and a **generative** 
  
 These two types of models are different as they tackle different problems. **Discriminative** models tackle the problem of *how to split the dataset into clusters with similar features*, while **generative** models tackle the *problem of how to use the dataset to make new data that are highly similar to it*.
 
+![Screenshot 2023-08-13 at 10 22 32 PM](https://github.com/wesleyacheng/english-to-french-translation-with-t5/assets/15952538/0fc54f94-09a4-41d8-8a02-d600336b6291)
+
 As an introduction to **generative** models in **Natural Language Processing (NLP)** in this notebook, we will be doing the **classic machine translation task** (a **generative** problem) of translating **English to French** by transfer learning with **Google's T5 model** [\[blog\]](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html). We will be using the *HuggingFace NLP interface* to simplify this introduction. Let's get going! 🦾
